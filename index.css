@@ -1,0 +1,18 @@
+.nac{
+background-color: antiquewhite;
+font-size: larger;
+}
+.box1{
+
+    
+}
+.first{
+    display: flex;
+}
+.box1{
+    display: flex;
+    gap: 4%;
+}
+.box2{
+    display: flex;
+}
